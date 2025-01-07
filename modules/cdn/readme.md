@@ -20,7 +20,7 @@ aws_acm_certificate_arn | string | X             | O        | aws us-east-1에�
 
 ## outputs
 name   | type   | description 
------- |--------|-------------
+-------|--------|-------------
 s3_arn | string | 생성된 s3 arn
 
 ## 사용 방법
